@@ -8,7 +8,7 @@ public class ArrayAccess {
         int[] numbers = {10, 20, 30, 40, 50};
 
         //ask for user input
-        System.out.print("Enter an index (0 to 4): ");
+        System.out.print("Enter an index (0-4): ");
         int userInput = scanner.nextInt();
 
         //Try-catch block to handle exception
