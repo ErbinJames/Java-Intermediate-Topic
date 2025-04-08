@@ -7,6 +7,7 @@ public class Calculator {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         
+        //try-catch block
         try {
             //prompt for the user input
             System.out.print("Enter first number: ");
