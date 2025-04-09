@@ -25,7 +25,7 @@ public class AgeVerification {
 
         // check age using method
         checkAge(age);
-
+        
         // if no exception thrown
         System.out.println("Registration successful!");
     } catch (AgeRestrictionException e) {
